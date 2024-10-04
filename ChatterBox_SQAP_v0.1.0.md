@@ -186,4 +186,4 @@ IEEE (2014). IEEE Standard for Software Quality Assurance Processes. This standa
 - **v0.1.0** - 2024-10-04 - Bryce Woodland
     - Updated Section 1 with project description and quality assurance purpose.
     - Defined three terms in Section 2.
-    - Stubs created for Sections 3 and 4 based on IEEE 730-2014 guidelines.
+    - Updated Section 3 with contract. 
