@@ -19,13 +19,6 @@
 | 2024-10-02      | Initial Draft               | v0.0.1          | Bilbo Baggins             | 
 | 2024-10-04      | Updated Section 1, 2, and 3 | v0.1.0          | Bryce Woodland            |
 
-## Change Notes
-- **Version 1.0**: The initial draft of the SQAP was created.
-- **Version 1.1**: A revision history section was added to track changes.
-- **Version 1.2**: The testing strategy was updated based on feedback.
-
-For more details on the changes made, please see the [Revision History](#revision-history) section.
-
 ---
 
 ## Table of Contents
