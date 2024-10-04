@@ -73,26 +73,48 @@ A process of evaluating software to determine whether it meets the specified req
 
 Any deviation from the expected behavior of the software, which may require resolution before the software can be deemed ready for production.
 
-## 3. Quality Assurance Activities
-
-Quality assurance activities will include:
-- **Testing Strategy:** This will outline the different testing methodologies that will be employed during the project (see Section 3.1).
-- **Quality Metrics:** Metrics will be established to measure the quality of the software throughout its development lifecycle (see Section 3.2).
-- **Reviews and Audits:** Regular reviews and audits will be conducted to ensure adherence to quality standards (see Section 3.3).
-
-### 3.1 Testing Strategy
-[Details of the testing strategy, including unit and integration testing.]
-
-### 3.2 Quality Metrics
-[Define the metrics used to evaluate quality, such as defect density, test coverage, etc.]
-
-### 3.3 Reviews and Audits
-[Outline the process for conducting reviews and audits, including frequency and responsible parties.]
-
-## 4. References
+## 3. References
 
 - [Contract Name or Document Reference]
 - [Any other reference documents that have been used]
+
+## 4. SQA Plan Overview
+
+### 4.1 Organization and independence
+
+### 4.2 Software Product Risk
+
+### 4.3 Tools
+
+### 4.4 Standards, Practices, and Conventions
+
+### 4.5 Effort, Resources, and Schedule
+
+## 5. Activities, Outcomes, and Tasks
+
+### 5.1 Product Assurance
+
+#### 5.1.1 Evaluate Plans for Conformance
+
+#### 5.1.2 Evaluate Product for Conformance
+
+#### 5.1.3 Evaluate Product for Acceptablity
+
+#### 5.1.4 Evaluate Product for Life Cycle Support and Conformance
+
+#### 5.1.5 Measure Products
+
+### 5.2 Process Assurance
+
+#### 5.2.1 Evaluate Life Cycle Processes for Conformance
+
+#### 5.2.2 Evaluate Environments for Conformance
+
+#### 5.2.3 Evaluate Evaluate Subcontractor Processes for Conformance
+
+#### 5.2.4 Measure Processes
+
+#### 5.2.5 Assess Staff Skill and Knowledge
 
 ## Release Change Notes
 
