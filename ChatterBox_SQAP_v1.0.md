@@ -16,7 +16,7 @@
 
 | Date            | Update(s)                   | Version         | Author(s)                 | 
 |-----------------|-----------------------------|-----------------|---------------------------|
-| 2024-10-02      | Initial Draft               | v0.0.1          | Bilbo Baggins             | 
+| 2024-10-02      | Initial Draft               | v0.0.1          | Bryce Woodland           | 
 | 2024-10-04      | Updated Section 1, 2, and 3 | v0.1.0          | Bryce Woodland            |
 
 **Change Notes:** [Link to Change Notes](#release-change-notes)
@@ -75,15 +75,32 @@
 
 ## 1. Introduction
 
-This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for ChatterBox Inc., which is a web-based application for managing inventory. The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software.
+This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for ChatterBox Inc., which is a web-based instant messaging application designed to facilitate seamless communication among users. The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software.
 
 ### 1.1 Purpose
 
-[Define the purpose in detail, referencing CONOPS and contract.]
+The purpose of this Software Quality Assurance Plan (SQAP) is to establish a comprehensive framework for ensuring that ChatterBox Inc.'s instant messaging application meets the defined quality standards, aligns with user expectations, and complies with industry regulations. This plan will facilitate the detection and mitigation of defects early in the development lifecycle, thereby reducing costs and improving user satisfaction. The SQAP also references the Concept of Operations (CONOPS) and the contractual obligations to ensure that all stakeholders have a clear understanding of the project’s objectives and deliverables.
 
 ### 1.2 Scope
 
-[Identify the scope of the project.]
+The scope of the ChatterBox Inc. project encompasses the development, testing, and deployment of a web-based instant messaging application that enables users to communicate in real time through text, voice, and video messages. The project includes the following key components:
+
+1. **User Interface (UI) Design**: Ensuring that the application has an intuitive and user-friendly interface that facilitates easy navigation and access to messaging features.
+
+2. **Messaging Functionality**: Developing robust messaging capabilities that allow users to send and receive text messages, voice messages, and conduct video calls seamlessly, with features such as emojis, file sharing, and message reactions.
+
+3. **User Account Management**: Implementing secure user registration, login, and profile management features, including privacy settings and notification preferences.
+
+4. **Group Chat Management**: Creating functionality for users to create and manage group chats, including adding/removing members, setting group permissions, and managing group notifications.
+
+5. **Quality Assurance Activities**: Conducting thorough testing processes, including functional, performance, security, and usability testing, to ensure that the application meets all specified requirements.
+
+6. **Compliance and Regulatory Requirements**: Adhering to legal and regulatory standards related to data privacy, user security, and communication laws.
+
+7. **Deployment and Maintenance**: Planning for the deployment of the application on cloud infrastructure and establishing protocols for ongoing maintenance, updates, and user support.
+
+This SQAP will cover all phases of the software development lifecycle, from initial requirements gathering through to deployment and post-launch support, ensuring that quality assurance is integrated at every stage of the process.
+
 
 ## 2. Definitions
 
