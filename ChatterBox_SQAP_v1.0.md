@@ -1,5 +1,3 @@
-<div style="text-align: center;">
-
 # Software Quality Assurance Plan (SQAP) 
 
 **Project/Product Name: ChatterBox Instant Messaging Service**
@@ -12,7 +10,6 @@
 
 **Author(s):** Bryce Woodland
 
-</div>
 ---
 
 # Revision History
