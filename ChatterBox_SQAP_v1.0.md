@@ -25,18 +25,20 @@
 
 ## Table of Contents
 
-1. [Introduction](#1-introduction)  (Page 1)  
-   1.1 [Purpose](#11-purpose)  (Page 1)  
-   1.2 [Scope](#12-scope)  (Page 1)  
-2. [Definitions](#2-definitions)  (Page 2)  
-   2.1 [Quality Assurance](#21-quality-assurance)  (Page 2)  
-   2.2 [Testing](#22-testing)  (Page 2)  
-   2.3 [Defect](#23-defect)  (Page 2)  
-3. [Quality Assurance Activities](#3-quality-assurance-activities)  (Page 3)  
-   3.1 [Testing Strategy](#31-testing-strategy)  (Page 4)  
-   3.2 [Quality Metrics](#32-quality-metrics)  (Page 5)  
-   3.3 [Reviews and Audits](#33-reviews-and-audits)  (Page 6)  
-4. [References](#4-references)  (Page 7)  
+## Table of Contents
+
+1. [Introduction](#1-introduction)  
+   1.1 [Purpose](#11-purpose)  
+   1.2 [Scope](#12-scope)  
+2. [Definitions](#2-definitions)  
+   2.1 [Quality Assurance](#21-quality-assurance)  
+   2.2 [Testing](#22-testing)  
+   2.3 [Defect](#23-defect)  
+3. [Quality Assurance Activities](#3-quality-assurance-activities)  
+   3.1 [Testing Strategy](#31-testing-strategy)  
+   3.2 [Quality Metrics](#32-quality-metrics)  
+   3.3 [Reviews and Audits](#33-reviews-and-audits)  
+4. [References](#4-references)    
 
 ---
 
@@ -49,9 +51,13 @@
 
 ## 1. Introduction
 
-This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for the [Your Project Name], which is a [brief description of the project, e.g., a web-based application for managing inventory]. 
+This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for ChatterBox Inc., which is a web-based application for managing inventory.
 
-The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software. The project aims to enhance operational efficiency and improve user experience. This SQAP will serve as a guiding document for all quality assurance activities throughout the project lifecycle.
+### 1.1 Purpose
+The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software.
+
+### 1.2 Scope
+This SQAP will serve as a guiding document for all quality assurance activities throughout the project lifecycle.
 
 ## 2. Definitions
 
