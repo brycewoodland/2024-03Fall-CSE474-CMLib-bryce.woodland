@@ -104,7 +104,7 @@ This SQAP will cover all phases of the software development lifecycle, from init
 
 ## 2. Definitions
 
-### 2.1 Quality Assurance (QA)
+### 2.1 Quality Assurance
 
 A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
 
@@ -112,7 +112,7 @@ A systematic process to ensure that the developed software meets the required st
 
 CONOPS stands for Concept of Operations. It is a document or description that outlines the goals, operational needs, and high-level activities of a system or project from a user or stakeholder's perspective. In software development, it helps stakeholders understand how a system is intended to function in its real-world environment before development begins.
 
-### 2.3 User Interface (UI)
+### 2.3 User Interface
 
 User Interface (UI): The User Interface is the space where user interaction with a computer application occurs. It encompasses the layout, design, and elements of the application that users engage with, such as buttons, text boxes, and menus. A well-designed UI enhances user experience by making navigation intuitive and straightforward.
 
