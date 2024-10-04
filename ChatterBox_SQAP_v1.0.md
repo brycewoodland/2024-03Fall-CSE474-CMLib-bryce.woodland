@@ -61,11 +61,17 @@ This Software Quality Assurance Plan (SQAP) outlines the quality assurance proce
 
 ## 2. Definitions
 
-### 2.1 **Quality Assurance (QA):** A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
+### 2.1 Quality Assurance (QA) 
 
-### 2.2 **Testing:** A process of evaluating software to determine whether it meets the specified requirements and functions correctly.
+A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
 
-### 2.3 **Defect:** Any deviation from the expected behavior of the software, which may require resolution before the software can be deemed ready for production.
+### 2.2 Testing
+
+A process of evaluating software to determine whether it meets the specified requirements and functions correctly.
+
+### 2.3 Defect 
+
+Any deviation from the expected behavior of the software, which may require resolution before the software can be deemed ready for production.
 
 ## 3. Quality Assurance Activities
 
