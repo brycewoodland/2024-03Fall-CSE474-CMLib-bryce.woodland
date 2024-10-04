@@ -16,7 +16,6 @@
 
 | Date            | Update(s)                   | Version         | Author(s)                 | 
 |-----------------|-----------------------------|-----------------|---------------------------|
-| 2024-10-02      | Initial Draft               | v0.0.1          | Bryce Woodland           | 
 | 2024-10-04      | Updated Section 1, 2, and 3 | v0.1.0          | Bryce Woodland            |
 
 **Change Notes:** [Link to Change Notes](#release-change-notes)
@@ -70,8 +69,8 @@
 
 | Figure Number | Title                        | Link                       |
 |---------------|------------------------------|----------------------------|
-| Fig. 1        | System Architecture          | [Link to Fig. 1](#fig-1-system-architecture)  |
-| Fig. 2        | Testing Process Flowchart    | [Link to Fig. 2](#fig-2-testing-process-flowchart)  |
+| Fig. 1        |                              | [Link to Fig. 1]()  |
+| Fig. 2        |                              | [Link to Fig. 2]()  |
 
 ## 1. Introduction
 
@@ -118,7 +117,8 @@ User Interface (UI): The User Interface is the space where user interaction with
 
 ## 3. References
 
-- [Contract Name or Document Reference]
+- IEEE Std 730-2014
+IEEE (2014). IEEE Standard for Software Quality Assurance Processes. This standard provides a framework for establishing and maintaining a Software Quality Assurance Plan and outlines the processes necessary for ensuring software quality.
 - [Any other reference documents that have been used]
 
 ## 4. SQA Plan Overview
