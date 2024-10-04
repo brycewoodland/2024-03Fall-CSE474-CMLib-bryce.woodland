@@ -2,13 +2,13 @@
 
 ## Project/Product Name: ChatterBox Inc.
 
-**Prepared By:** ChatterBox
+**Prepared By:** ChatterBox  
 
-**Prepared For:** ChatterBox Customers
+**Prepared For:** ChatterBox Customers  
 
 **Approved By:** [Instructor Name] __________________  
 
-**Authors:** Bryce Woodland
+**Authors:** Bryce Woodland  
 
 ---
 
@@ -25,43 +25,44 @@
 
 ## Table of Contents
 
-## Table of Contents
-
 1. [Introduction](#1-introduction)  
    1.1 [Purpose](#11-purpose)  
    1.2 [Scope](#12-scope)  
 2. [Definitions](#2-definitions)  
+   2.1 [Quality Assurance](#21-quality-assurance)  
+   2.2 [Testing](#22-testing)  
+   2.3 [Defect](#23-defect)  
 3. [Quality Assurance Activities](#3-quality-assurance-activities)  
    3.1 [Testing Strategy](#31-testing-strategy)  
    3.2 [Quality Metrics](#32-quality-metrics)  
    3.3 [Reviews and Audits](#33-reviews-and-audits)  
-4. [References](#4-references)    
+4. [References](#4-references)  
 
 ---
 
 ## Table of Figures
 
-| Figure Number | Title                        | Page Number |
-|---------------|------------------------------|-------------|
-| Fig. 1        | System Architecture          | 4           |
-| Fig. 2        | Testing Process Flowchart    | 5           |
+| Figure Number | Title                        | Link                       |
+|---------------|------------------------------|----------------------------|
+| Fig. 1        | System Architecture          | [Link to Fig. 1](#fig-1-system-architecture)  |
+| Fig. 2        | Testing Process Flowchart    | [Link to Fig. 2](#fig-2-testing-process-flowchart)  |
 
 ## 1. Introduction
 
-This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for ChatterBox Inc., which is a web-based application for managing inventory.
+This Software Quality Assurance Plan (SQAP) outlines the quality assurance processes and strategies for ChatterBox Inc., which is a web-based application for managing inventory. The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software.
 
 ### 1.1 Purpose
-The purpose of this document is to define the quality standards and practices to ensure the delivery of high-quality software.
+
+[Define the purpose in detail, referencing CONOPS and contract.]
 
 ### 1.2 Scope
-This SQAP will serve as a guiding document for all quality assurance activities throughout the project lifecycle.
+
+[Identify the scope of the project.]
 
 ## 2. Definitions
 
 - **Quality Assurance (QA):** A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
-
 - **Testing:** A process of evaluating software to determine whether it meets the specified requirements and functions correctly.
-
 - **Defect:** Any deviation from the expected behavior of the software, which may require resolution before the software can be deemed ready for production.
 
 ## 3. Quality Assurance Activities
@@ -91,4 +92,3 @@ Quality assurance activities will include:
     - Updated Section 1 with project description and quality assurance purpose.
     - Defined three terms in Section 2.
     - Stubs created for Sections 3 and 4 based on IEEE 730-2014 guidelines.
-
