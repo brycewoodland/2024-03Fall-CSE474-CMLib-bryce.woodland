@@ -25,15 +25,18 @@
 
 ## Table of Contents
 
-| Section                               | Page |
-|---------------------------------------|------|
-| 1 - Introduction                      | 1    |
-| 2 - Definitions                       | 2    |
-| 3 - Quality Assurance Activities      | 3    |
-|  3.1 - Testing Strategy               | 4    |
-|  3.2 - Quality Metrics                | 5    |
-|  3.3 - Reviews and Audits             | 6    |
-| 4 - References                        | 7    |
+1. [Introduction](#1-introduction)  (Page 1)  
+   1.1 [Purpose](#11-purpose)  (Page 1)  
+   1.2 [Scope](#12-scope)  (Page 1)  
+2. [Definitions](#2-definitions)  (Page 2)  
+   2.1 [Quality Assurance](#21-quality-assurance)  (Page 2)  
+   2.2 [Testing](#22-testing)  (Page 2)  
+   2.3 [Defect](#23-defect)  (Page 2)  
+3. [Quality Assurance Activities](#3-quality-assurance-activities)  (Page 3)  
+   3.1 [Testing Strategy](#31-testing-strategy)  (Page 4)  
+   3.2 [Quality Metrics](#32-quality-metrics)  (Page 5)  
+   3.3 [Reviews and Audits](#33-reviews-and-audits)  (Page 6)  
+4. [References](#4-references)  (Page 7)  
 
 ---
 
