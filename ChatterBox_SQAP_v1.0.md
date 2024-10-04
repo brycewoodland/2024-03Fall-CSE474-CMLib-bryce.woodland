@@ -116,6 +116,28 @@ Any deviation from the expected behavior of the software, which may require reso
 
 #### 5.2.5 Assess Staff Skill and Knowledge
 
+## 6. Additional Considerations
+
+### 6.1 Contract Review
+
+### 6.2 Quality Measurment
+
+### 6.3 Waivers and Deviations
+
+### 6.4 Task Repetition
+
+### 6.5 Risks to Performing SQA
+
+### 6.6 Communications Strategy
+
+### 6.7 Non-conformance Process
+
+## 7. SQA Records
+
+### 7.1 Analyze, Identify, Collect, File, Maintain and Dispose
+
+### 7.2 Availability of Records
+
 ## Release Change Notes
 
 - **v0.1.0** - 2024-10-04 - Bryce Woodland
