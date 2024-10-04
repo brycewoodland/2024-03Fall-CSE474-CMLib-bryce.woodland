@@ -30,7 +30,7 @@
    1.2 [Scope](#12-scope)  
 2. [Definitions](#2-definitions)  
    2.1 [Quality Assurance](#21-quality-assurance)  
-   2.2 [Testing](#22-testing)  
+   2.2 [CONOPS](#22-CONOPS)  
    2.3 [Defect](#23-defect)  
 3. [References](#3-references)  
 4. [SQA Plan Overview](#4-sqa-plan-overview)  
@@ -104,17 +104,17 @@ This SQAP will cover all phases of the software development lifecycle, from init
 
 ## 2. Definitions
 
-### 2.1 Quality Assurance
+### 2.1 Quality Assurance (QA)
 
 A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
 
-### 2.2 Testing
+### 2.2 CONOPS
 
-A process of evaluating software to determine whether it meets the specified requirements and functions correctly.
+CONOPS stands for Concept of Operations. It is a document or description that outlines the goals, operational needs, and high-level activities of a system or project from a user or stakeholder's perspective. In software development, it helps stakeholders understand how a system is intended to function in its real-world environment before development begins.
 
-### 2.3 Defect 
+### 2.3 User Interface (UI)
 
-Any deviation from the expected behavior of the software, which may require resolution before the software can be deemed ready for production.
+User Interface (UI): The User Interface is the space where user interaction with a computer application occurs. It encompasses the layout, design, and elements of the application that users engage with, such as buttons, text boxes, and menus. A well-designed UI enhances user experience by making navigation intuitive and straightforward.
 
 ## 3. References
 
