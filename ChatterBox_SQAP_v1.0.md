@@ -19,6 +19,8 @@
 | 2024-10-02      | Initial Draft               | v0.0.1          | Bilbo Baggins             | 
 | 2024-10-04      | Updated Section 1, 2, and 3 | v0.1.0          | Bryce Woodland            |
 
+**Change Notes:** [Link to Change Notes](#release-change-notes)
+
 ---
 
 ## Table of Contents
