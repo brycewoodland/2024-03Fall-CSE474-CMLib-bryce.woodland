@@ -61,7 +61,7 @@ This Software Quality Assurance Plan (SQAP) outlines the quality assurance proce
 
 ## 2. Definitions
 
-### 2.1 Quality Assurance (QA) 
+### 2.1 Quality Assurance
 
 A systematic process to ensure that the developed software meets the required standards and fulfills its intended purpose.
 
